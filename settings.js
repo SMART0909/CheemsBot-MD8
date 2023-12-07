@@ -30,9 +30,9 @@ global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
 global.botname = "☆SMART MD V1"
-global.ownernumber = '916909137213'
+global.ownernumber = '2349015767177'
 global.ownername = '🦄드림 가이 Xeon'
-global.ownerNumber = ["23490157671773@s.whatsapp.net"]
+global.ownerNumber = ["2349015767177@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
 global.wagc = "https://chat.whatsapp.com/F6uvJcsyZuN6K1fymdbLg7"
@@ -41,7 +41,7 @@ global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD6' //script link
 global.packname = "Sticker By"
 global.author = "🦄드림 가이 Xeon\n\n"
-global.creator = "916909137213@s.whatsapp.net"
+global.creator = "2349015767177@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
